@@ -1,0 +1,22 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+a {
+    color: red;
+}
+
+img {
+    width: 300px;
+}
+
+div {
+    display: grid;
+    margin-bottom: 20px;
+}
+
+.zombie {
+    background-color: rebeccapurple
+}
